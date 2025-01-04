@@ -1,0 +1,86 @@
+E:\Visual studio\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\Gym Management System.exe
+E:\Visual studio\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\Gym Management System.deps.json
+E:\Visual studio\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\Gym Management System.runtimeconfig.json
+E:\Visual studio\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\Gym Management System.dll
+E:\Visual studio\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\Gym Management System.pdb
+E:\Visual studio\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym_Management_System.Homepage.resources
+E:\Visual studio\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym_Management_System.Loginform.resources
+E:\Visual studio\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym Management System.csproj.GenerateResource.cache
+E:\Visual studio\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym Management System.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual studio\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym Management System.AssemblyInfoInputs.cache
+E:\Visual studio\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym Management System.AssemblyInfo.cs
+E:\Visual studio\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym Management System.csproj.CoreCompileInputs.cache
+E:\Visual studio\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym Management System.dll
+E:\Visual studio\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\refint\Gym Management System.dll
+E:\Visual studio\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym Management System.pdb
+E:\Visual studio\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym Management System.genruntimeconfig.cache
+E:\Visual studio\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\ref\Gym Management System.dll
+E:\Visual studio\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym_Management_System.Properties.Resources.resources
+E:\Visual studio\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym_Management_System.FinancialData.resources
+E:\Visual studio\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym_Management_System.Manageusers.resources
+E:\Visual studio\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym_Management_System.MemberInfo.resources
+E:\Visual studio\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym_Management_System.Searchmember.resources
+E:\Visual studio\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\Visual studio\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\Google.Protobuf.dll
+E:\Visual studio\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+E:\Visual studio\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\Visual studio\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+E:\Visual studio\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\MySql.Data.dll
+E:\Visual studio\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\Visual studio\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\ZstdSharp.dll
+E:\Visual studio\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\Visual studio\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\Visual studio\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\Visual studio\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\Visual studio\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\Visual studio\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym Management System.csproj.AssemblyReference.cache
+E:\Visual studio\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym Management System.csproj.CopyComplete
+E:\Visual studio\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\Visual studio\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Visual studio\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\Visual studio\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\Visual studio\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Visual studio\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Gym Management system\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\Gym Management System.exe
+E:\Gym Management system\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\Gym Management System.deps.json
+E:\Gym Management system\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\Gym Management System.runtimeconfig.json
+E:\Gym Management system\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\Gym Management System.dll
+E:\Gym Management system\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\Gym Management System.pdb
+E:\Gym Management system\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\Gym Management system\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\Google.Protobuf.dll
+E:\Gym Management system\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+E:\Gym Management system\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\Gym Management system\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+E:\Gym Management system\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\MySql.Data.dll
+E:\Gym Management system\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\Gym Management system\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\Gym Management system\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\ZstdSharp.dll
+E:\Gym Management system\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\Gym Management system\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\Gym Management system\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\Gym Management system\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\Gym Management system\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\Gym Management system\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Gym Management system\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\Gym Management system\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\Gym Management system\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Gym Management system\Gym Management System\Gym Management System\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Gym Management system\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym Management System.csproj.AssemblyReference.cache
+E:\Gym Management system\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym_Management_System.FinancialData.resources
+E:\Gym Management system\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym_Management_System.Homepage.resources
+E:\Gym Management system\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym_Management_System.Loginform.resources
+E:\Gym Management system\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym_Management_System.Manageusers.resources
+E:\Gym Management system\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym_Management_System.MemberInfo.resources
+E:\Gym Management system\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym_Management_System.Properties.Resources.resources
+E:\Gym Management system\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym_Management_System.Searchmember.resources
+E:\Gym Management system\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym Management System.csproj.GenerateResource.cache
+E:\Gym Management system\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym Management System.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gym Management system\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym Management System.AssemblyInfoInputs.cache
+E:\Gym Management system\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym Management System.AssemblyInfo.cs
+E:\Gym Management system\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym Management System.csproj.CoreCompileInputs.cache
+E:\Gym Management system\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym Management System.csproj.CopyComplete
+E:\Gym Management system\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym Management System.dll
+E:\Gym Management system\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\refint\Gym Management System.dll
+E:\Gym Management system\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym Management System.pdb
+E:\Gym Management system\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\Gym Management System.genruntimeconfig.cache
+E:\Gym Management system\Gym Management System\Gym Management System\obj\Debug\net8.0-windows\ref\Gym Management System.dll
